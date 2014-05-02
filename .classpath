@@ -2,12 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/jgoodies"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/postgres"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/postgresql-9.3-jdbc41"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/postgresql-jdbc"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JGoodies"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/PostgreSQL"/>
 	<classpathentry kind="lib" path="Libraries/PostgreSQL/postgresql-9.3-1100.jdbc41.jar"/>
 	<classpathentry kind="lib" path="Libraries/JGoodies/jgoodies-common-1.6.0/jgoodies-common-1.6.0-javadoc.jar"/>
 	<classpathentry kind="lib" path="Libraries/JGoodies/jgoodies-common-1.6.0/jgoodies-common-1.6.0-sources.jar"/>
