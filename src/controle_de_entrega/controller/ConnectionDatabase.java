@@ -10,7 +10,7 @@ public class ConnectionDatabase {
 
 	public static Connection createConnection() {
 		Connection connection = null;
-		String url = "jdbc:postgresql://192.168.1.3:5432/controledeentregas";
+		String url = "jdbc:postgresql://Server:5432/controledeentregas";
 		String user = "postgres";
 		String password = "Pa$$w0rd";
 

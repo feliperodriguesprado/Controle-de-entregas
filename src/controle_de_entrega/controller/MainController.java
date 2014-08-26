@@ -49,6 +49,10 @@ public class MainController implements FrameMainListener {
 			e.printStackTrace();
 		}
 		
+		UIManager.put("OptionPane.yesButtonText", LanguageResources.getResource("yes"));
+		UIManager.put("OptionPane.noButtonText", LanguageResources.getResource("no"));
+		UIManager.put("OptionPane.cancelButtonText", LanguageResources.getResource("cancel"));
+		
 		frMain = new FrameMain(this);
 		frMain.setVisible(true);
 	}
