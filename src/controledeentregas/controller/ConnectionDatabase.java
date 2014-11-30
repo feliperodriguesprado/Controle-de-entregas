@@ -10,6 +10,8 @@ public class ConnectionDatabase {
 
 	/**
 	 * Metodo para criar conexao com o banco de dados.
+	 * 
+	 * return Connection
 	 **/ 
 	public static Connection createConnection() {
 		Connection connection = null;
