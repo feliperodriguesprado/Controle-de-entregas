@@ -8,9 +8,12 @@ import java.sql.Statement;
 
 public class ConnectionDatabase {
 
+	/**
+	 * Metodo para criar conexao com o banco de dados.
+	 **/ 
 	public static Connection createConnection() {
 		Connection connection = null;
-		String url = "jdbc:postgresql://192.168.1.13:5432/controledeentregas";
+		String url = "jdbc:postgresql://192.168.24.3:5432/controledeentregas";
 		String user = "postgres";
 		String password = "Pa$$w0rd";
 
