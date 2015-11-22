@@ -1,4 +1,4 @@
 Controle de entregas
 ====================
 
-Projeto de um sistema em Java para controle de entregas.
+Sistema controle de entregas desenvolvido utilizando a tecnologia Java.
